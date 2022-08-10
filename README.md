@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @llplln
+- 👀 I’m interested in Cod
+- 🌱 I’m currently learning javascript - C# Html css .
